@@ -1,6 +1,7 @@
 ## Created By Ziddi Hacker 2!
 # shutter
 
+![alt tag](https://github.com/ziddihacker2/shutter/blob/main/shutter.png)
 
   Choose Options Restart, Shutdown, Lock and Logout
 
