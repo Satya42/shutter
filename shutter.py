@@ -1,5 +1,12 @@
+# importing the pyttsx library
+import pyttsx3
 import os
 import subprocess
+os.system("cls")
+# initialisation
+engine = pyttsx3.init()
+sound = engine.getProperty('voices')
+engine.setProperty('voice', sound[1].id)
 
 def shutdown():
     print("\n \033[01;36m Your Computer is shutdown\n")
@@ -41,6 +48,10 @@ while computer != 'q':
         os.system('shutdown -l')
     elif computer == 'q':
         print("\n \033[01;36m Thanks")
+        engine.say("thanks for quit")
     else:
         print("\n \033[01;31m Thanks! But Sorry Please try again another command\n")
 print("\033[01;37m Created By Ziddi Hacker 2!")
+engine.say("Thanks, for, using,")
+
+engine.runAndWait()
