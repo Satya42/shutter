@@ -3,6 +3,8 @@
 
 ![alt tag](https://github.com/Satya42/shutter/blob/main/File.png)
 
+ ## Features 
+  
   Choose Options Restart, Shutdown, Lock and Logout
 
  [1] Enter 1 to your computer is shutdown
