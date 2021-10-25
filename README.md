@@ -23,7 +23,10 @@
 
 ## Download here
 
+Open Window CMD Type or Copy 
+
      git clone  https://github.com/Satya42/shutter.git
  
+And Click Enter ↰ Button
 
-# Created By Satya42!
+Created By Satya42!
