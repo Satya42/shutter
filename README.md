@@ -1,5 +1,5 @@
 
-## Shutter
+# Shutter
 
 ![alt tag](https://github.com/Satya42/shutter/blob/main/File.png)
 
@@ -19,7 +19,7 @@
 
   Thanks
  
-# Note:-  Only Using For Windows User  
+## Note:-  Only Using For Windows User  
 
 ## Download here
 
@@ -29,4 +29,8 @@ Open Window CMD Type or Copy
  
 And Click Enter ↰ Button
 
-Created By Satya42!
+
+
+
+
+##Created By Satya42!
