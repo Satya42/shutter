@@ -1,6 +1,7 @@
 
 # Shutter File 📂 Information 
 
+##
 ![alt tag](https://github.com/Satya42/shutter/blob/main/File.png)
 
  ## Features 
