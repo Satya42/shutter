@@ -5,8 +5,6 @@
 
   Choose Options Restart, Shutdown, Lock and Logout
 
-          Ziddi Hacker 2!!
-
  [1] Enter 1 to your computer is shutdown
  
  [2] Enter 2 to your computer is restart
