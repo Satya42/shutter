@@ -23,13 +23,13 @@
 
 ## Download here
 
-Install Python For Windows
+Step 01: Install Python For Windows
 
-Open Windows CMD Type or Copy 
+Step 02: Open Windows CMD Type or Copy 
 
      git clone  https://github.com/Satya42/shutter.git
  
-And Click Enter ↰ Button
+Step 03:  And Click Enter ↰ Button
 
 
 
