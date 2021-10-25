@@ -1,4 +1,4 @@
-## Created By Ziddi Hacker 2!
+## Created By Satya42!
 # shutter
 
 ![alt tag](https://github.com/ziddihacker2/shutter/blob/main/shutter.png)
@@ -20,9 +20,5 @@
  Choose Options and Hit enter: q
 
   Thanks
-  
- Created By Ziddi Hacker 2!
-
-
-
-# Only using For Windows user 
+ 
+# Note:-  Only Using For Windows User 
