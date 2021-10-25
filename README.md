@@ -1,7 +1,7 @@
-## Created By Satya42!
-# shutter
 
-![alt tag](https://github.com/ziddihacker2/shutter/blob/main/shutter.png)
+## Shutter
+
+![alt tag](https://github.com/Satya42/shutter/blob/main/File.png)
 
   Choose Options Restart, Shutdown, Lock and Logout
 
@@ -19,4 +19,11 @@
 
   Thanks
  
-# Note:-  Only Using For Windows User 
+# Note:-  Only Using For Windows User  
+
+## Download here
+
+     git clone  https://github.com/Satya42/shutter.git
+ 
+
+# Created By Satya42!
